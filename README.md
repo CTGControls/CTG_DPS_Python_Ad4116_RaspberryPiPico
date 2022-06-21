@@ -17,4 +17,4 @@ The hardware I am testing with:
 ```
 
 ### Siglent SDS 1104x-e Digital Storage Oscilloscope showing the the correct data a commad 0x70 and a read of 0x800055 
-![SPI Message](/../main/res/SDS00002.jpg)
+![SPI Message](/../main/res/PiPicoRead.jpg)
