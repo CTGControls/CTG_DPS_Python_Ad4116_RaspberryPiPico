@@ -1,0 +1,19 @@
+lib/*
+lib/*.*
+*secrets*
+*password*
+lib/
+System Volume Information/*
+*System*/*.*
+vscode/*
+.vscode/
+.vscode/*
+.vscode/*.*
+.vscode/settings.json
+.metadata_never_index
+.Trashes
+boot_out
+fseventsd/no_log
+.fseventsd/*
+.fseventsd
+boot_out.txt
