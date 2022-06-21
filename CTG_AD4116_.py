@@ -40,7 +40,7 @@ class CTG_AD4116_:
 
             #/* set ADC OFFSET0 offset value */
             #/* OFFSET0 - OFFSET7 */
-            CTG_AD4116.set_offset_config(fspi, spiClk, adc7173_register_t.OFFSET0, 0xFF) 
+            CTG_AD4116.set_offset_config(fspi, spiClk, adc7173_register_t.OFFSET0, 0x55) 
 
 
             #/* set the ADC FILTER0 ac_rejection to false and samplingrate to 1007 Hz */
